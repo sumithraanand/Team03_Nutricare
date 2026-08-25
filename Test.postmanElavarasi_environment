@@ -1,0 +1,178 @@
+{
+	"id": "0f96208d-022a-4181-b821-3e040ebc12ac",
+	"name": "Test",
+	"values": [
+		{
+			"key": "Base_URL",
+			"value": "http://localhost:5678/dietician",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "token_env",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "dieticianId_env",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "email_env",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "dieticianToken_env",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "loggedInDieticianEmail_env",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "patientInfo_env",
+			"value": "",
+			"type": "any",
+			"enabled": false
+		},
+		{
+			"key": "patientId_env",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "vitals_env",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "patientinformation_env",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "dieticianContact_env",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "dieticianDOB_env",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "morbidityName_env",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "randomContact",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "randomDOB",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "randomEmail",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "randomPincode",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "updateEducation",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "updateHospitalName",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "updateHospitalStreet",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "updateHospitalCity",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "updatePincode",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "patientContact_env",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "patientDOB_env",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "patientLoginEmail_env",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "patientToken_env",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "fileName",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "patientInfo_env",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"color": null,
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2026-08-25T16:45:37.656Z",
+	"_postman_exported_using": "Postman/12.25.3"
+}
