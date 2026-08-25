@@ -1,0 +1,2 @@
+newman-report*.html
+!newman-report.html
